@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Budget Calculator** is a desktop application built with Python and Tkinter that helps users calculate their monthly budget. The application allows users to enter their total income, record expenses across multiple categories, and instantly view their remaining balance and savings percentage.
+**Budget Calculator** is a desktop application built with Python and Tkinter that helps users calculate their monthly budget. The application allows users to enter their total income, record expenses across multiple categories, instantly view their remaining balance and savings percentage.
 
 The application also provides spending alerts when expenses exceed predefined thresholds, helping users become more aware of their financial habits.
 
